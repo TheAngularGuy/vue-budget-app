@@ -1,5 +1,7 @@
 {
   "compilerOptions": {
+    "strictPropertyInitialization": false,
+    "strictNullChecks": false,
     "target": "esnext",
     "module": "esnext",
     "strict": true,
